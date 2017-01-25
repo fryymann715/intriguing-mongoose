@@ -2,6 +2,10 @@
 
 Built on top of the database for a pizza store @thamaranth and I created, all the API routes are located in routes/index.js
 
+![alt text][diagram]
+
+[diagram]: https://github.com/fryymann715/intriguing-mongoose/blob/master/E-R%20Diagram.png "E-R Diagram"
+
 ### Specs
 
 - [x] Create several "Business Reporting" functions which return data on various aspects of the business (total sales per year, etc..)
