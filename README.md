@@ -1,6 +1,6 @@
 # Intriguing-Mongoose
 
-    Built on top of the database for a pizza store @thamaranth and I created, all the API routes are located in routes/index.js
+Built on top of the database for a pizza store @thamaranth and I created, all the API routes are located in routes/index.js
 
 ### Specs
 
